@@ -4,11 +4,11 @@ El proyecto analiza la herramienta wget, una de las utilidades más utilizadas p
 
 ## Índice:
 
-1. [Introducción](https://github.com/mikkgh/wget/Introducción.md)
+1. [Introducción](https://github.com/mikkgh/wget/blob/main/Introducción.md)
 
-2. [Instalación](https://github.com/mikkgh/wget/Instalación.md)
+2. [Instalación](https://github.com/mikkgh/wget/blob/main/Instalación.md)
 
-3. [Ejemplos](https://github.com/mikkgh/wget/Ejemplos.md)
+3. [Ejemplos](https://github.com/mikkgh/wget/blob/main/Ejemplos.md)
 
 
 ## Referencias:
