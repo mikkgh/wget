@@ -7,6 +7,8 @@ solo hay que escribir:
 
 apt install wget
 
+![imagen](https://github.com/mikkgh/wget/blob/main/Install-Wget-in-Debian-and-Ubuntu.png)
+
 Para verificar la instalación:
 
 dpkg -l | grep wget
@@ -15,7 +17,7 @@ Para validar la versión:
 
 wget –-version
 
-![imagen](https://github.com/mikkgh/wget/blob/main/Install-Wget-in-Debian-and-Ubuntu.png)
+
 
 
 
