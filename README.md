@@ -1,4 +1,4 @@
-### Herramienta wget. Proyecto Github para ISO.
+## Herramienta wget. Proyecto Github para ISO.
 
 El proyecto analiza la herramienta wget, una de las utilidades más utilizadas por los administradores de sistemas.
 
