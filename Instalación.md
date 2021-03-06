@@ -15,6 +15,7 @@ Para validar la versión:
 
 wget –-version
 
-![img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.linux-console.net%2F%3Fp%3D1281&psig=AOvVaw2Bk7s9VT6AE1Bac3-qeBTa&ust=1615155074576000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCHp9XXnO8CFQAAAAAdAAAAABAO)
+![imagen](https://github.com/mikkgh/wget/blob/main/Install-Wget-in-Debian-and-Ubuntu.png)
+
 
 
