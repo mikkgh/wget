@@ -14,7 +14,7 @@ Puedes utilizar wget para colocar un archivo en otro directorio usando la funci�
     
 El comando también se puede usar con FTP. Solo necesitarás especificar el nombre de usuario y la contraseña:
 
-    wget --ftp-user=usuario --ftp-password=contraseña ftp://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-10.8.0-amd64-DVD-1.iso
+    wget --ftp-user=user --ftp-password=passwd ftp://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-10.8.0-amd64-DVD-1.iso
     
 Usar Wget para recuperar sitios web completos:
 
