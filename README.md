@@ -14,3 +14,5 @@ El proyecto analiza la herramienta wget, una de las utilidades más utilizadas p
 ## Referencias:
 
 [10 ejemplos de comandos wget](https://geekflare.com/es/wget-command-examples/)
+
+[Qué es y cómo usar el comando wget](https://www.hostinger.es/tutoriales/usar-comando-wget/)
