@@ -1,6 +1,6 @@
-#Instalación
+# Instalación
 
-#Debian / Ubuntu
+# Debian / Ubuntu
 
 Una vez configurados los repositorios correctamente y actualizado el sistema con apt update,
 solo hay que escribir:
